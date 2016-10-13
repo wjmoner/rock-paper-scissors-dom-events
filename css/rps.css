@@ -1,0 +1,48 @@
+/* CSS Document */
+
+body {
+    margin: 0 auto;
+    width: 60em;
+}
+
+#p1 {
+    width: 250px;
+    height: 250px;
+    border: 5px solid #999;
+    float: left;
+    margin: 5px;
+    cursor: pointer;
+    background: url('../images/qmark.png') center center no-repeat;
+}
+
+#p2 {
+    width: 250px;
+    height: 250px;
+    border: 5px solid #999;
+    float: left;
+    margin: 5px;
+    cursor: pointer;
+    background: url('../images/qmark.png') center center no-repeat;
+}
+
+#result {
+    clear: both;
+    font-size: 2em;
+    margin: 15px;
+}
+
+#choices {
+    clear: both;
+    margin-left: 40px;
+}
+
+#referenceList {
+    margin: 15px 0;
+    width: 500px;
+}
+
+#credits {
+    margin: 15px 0;
+    width: 500px;
+    font-size: .8em;
+}
